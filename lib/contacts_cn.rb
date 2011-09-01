@@ -5,7 +5,7 @@ unless Object.const_defined?('ActiveSupport')
 	require 'activesupport'
 end
 require 'base'
-require 'gmail'
+#require 'gmail'
 require 'hotmail'
 require 'yahoo'
 require 'plaxo'
